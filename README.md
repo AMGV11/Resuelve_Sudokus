@@ -17,13 +17,18 @@ para llegar a otro camino posible para llegar a la solución del problema
 EJECUCIÓN
 
 El programa se invoca llamando a su ejecutable usando la siguiente sintaxis:
+
 java sudoku [-t][-h] [fichero entrada]
 o
 java –jar sudoku.jar [-t][-h] [fichero entrada]
+
 donde:
--t                Traza las llamadas recursivas
--h                Muestra esta ayuda
-fichero_entrada   Tabla inicial del Sudoku (Necesita la dirección donde se encuentra el archivo)
+
+[-t]                Traza las llamadas recursivas
+
+[-h]                Muestra esta ayuda
+
+[fichero_entrada]   Tabla inicial del Sudoku (Necesita la dirección donde se encuentra el archivo)
 
 
 EJEMPLO DE LLAMADA
