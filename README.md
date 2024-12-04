@@ -25,28 +25,13 @@ fichero_entrada   Tabla inicial del Sudoku (Necesita la dirección donde se encu
 EJEMPLO DE LLAMADA:
 C:\Users\anton> java -jar C:\Users\Antonio\Sudoku.jar -t C:\Users\Antonio\Sudoku_Facil.txt
 * Texto de entrada de "Sudoku_Facil.txt":
-- 9 6 - 4 - - - 1
-1 - - - 6 - - - 4
-5 - 4 8 1 - 3 9 -
-- - 7 9 5 - - 4 3
-- 3 - - 8 - - - -
-4 - 5 - 2 3 - 1 8
-- 1 - 6 3 - - 5 9
-- 5 9 - 7 - 8 3 -
-- - 3 5 9 - - - 7
+
+![image](https://github.com/user-attachments/assets/3b75f16d-fd5b-46a3-9012-78b1e42f99ab)
+
 
 SALIDA
 El programa imprime por pantalla el sudoku dado como argumento resuelto, al igual que errores que haya encontrado en la ejecución.
-* Salida al finalizar el programa
-3 9 6  2 4 5  7 8 1
-1 7 8  3 6 9  5 2 4
-5 2 4  8 1 7  3 9 6
+* Salida al finalizar el programa:
 
-2 8 7  9 5 1  6 4 3
-9 3 1  4 8 6  2 7 5
-4 6 5  7 2 3  9 1 8
-
-7 1 2  6 3 8  4 5 9
-6 5 9  1 7 4  8 3 2
-8 4 3  5 9 2  1 6 7
+![image](https://github.com/user-attachments/assets/0f97dd48-6ecd-4c3f-9cef-2bc0849640dd)
 
