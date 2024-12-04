@@ -1,4 +1,5 @@
 RESUMEN
+
 El juego del Sudoku consiste en rellenar un cubo de 9 x 9 celdas dispuestas en 9 subgrupos de
 3 x 3 celdas, con números del 1 al 9, atendiendo a la restricción de que no se debe repetir el mismo
 número en la misma fila, columna o subgrupo de 9. Un Sudoku dispone de varias celdas con un
@@ -12,7 +13,9 @@ Si llegamos a un camino del árbol donde no hay la posibilidad de poner nu núme
 restricciones, se para el recorrido, se "poda" el camino y utilizamos el algoritmo de vuelta atrás
 para llegar a otro camino posible para llegar a la solución del problema
 
+
 EJECUCIÓN
+
 El programa se invoca llamando a su ejecutable usando la siguiente sintaxis:
 java sudoku [-t][-h] [fichero entrada]
 o
@@ -22,14 +25,18 @@ donde:
 -h                Muestra esta ayuda
 fichero_entrada   Tabla inicial del Sudoku (Necesita la dirección donde se encuentra el archivo)
 
-EJEMPLO DE LLAMADA:
+
+EJEMPLO DE LLAMADA
+
 C:\Users\anton> java -jar C:\Users\Antonio\Sudoku.jar -t C:\Users\Antonio\Sudoku_Facil.txt
 * Texto de entrada de "Sudoku_Facil.txt":
 
 ![image](https://github.com/user-attachments/assets/3b75f16d-fd5b-46a3-9012-78b1e42f99ab)
 
 
+
 SALIDA
+
 El programa imprime por pantalla el sudoku dado como argumento resuelto, al igual que errores que haya encontrado en la ejecución.
 * Salida al finalizar el programa:
 
