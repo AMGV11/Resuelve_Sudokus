@@ -36,8 +36,7 @@ EJEMPLO DE LLAMADA
 C:\Users\anton> java -jar C:\Users\Antonio\Sudoku.jar -t C:\Users\Antonio\Sudoku_Facil.txt
 * Texto de entrada de "Sudoku_Facil.txt":
 
-![image](https://github.com/user-attachments/assets/3b75f16d-fd5b-46a3-9012-78b1e42f99ab)
-
+![Sudoku_Normal](https://github.com/user-attachments/assets/cc83fc53-b36b-4196-859c-bbe441fb4b0e)
 
 
 SALIDA
@@ -45,5 +44,6 @@ SALIDA
 El programa imprime por pantalla el sudoku dado como argumento resuelto, al igual que errores que haya encontrado en la ejecución.
 * Salida al finalizar el programa:
 
-![image](https://github.com/user-attachments/assets/0f97dd48-6ecd-4c3f-9cef-2bc0849640dd)
+
+![Resolución_Sudoku_Normal](https://github.com/user-attachments/assets/8d1409af-82d4-4399-9cbf-f4ab75a66787)
 
