@@ -35,6 +35,7 @@ Usamos tests de la carpeta Ejemplos del repositorio:
   C:\Users\anton> java -jar C:\Users\Antonio\Sudoku.jar -t C:\Users\Antonio\Sudoku_Facil.txt
 ```
 * Texto de entrada de "Sudoku_Facil.txt":
+
 ![Sudoku_Normal](https://github.com/user-attachments/assets/cc83fc53-b36b-4196-859c-bbe441fb4b0e)
 
 
